@@ -1,6 +1,6 @@
 # Algorithms-and-Data-Structures
 ## Contents
-The contents of this repository consists of 3 assignments are given by Prof. Becerra for COMP 251 Algorithms and Data Structures course during Winter 2022 at McGill University.
+The contents of this repository consists of 3 assignments are given by [Prof. David Becerra](https://www.cs.mcgill.ca/~dbecer/) for COMP 251 Algorithms and Data Structures course during Winter 2022 at McGill University.
 ## Assignment 1-Data Structure Programming
 * Building a Hash Table
 * Building a Disjoint Set
